@@ -1,0 +1,15 @@
+/Users/sgpalash/Downloads/demo 2/src/main/java/com/example/demo/DemoApplication.java
+/Users/sgpalash/Downloads/demo 2/src/main/java/com/example/demo/controller/AppointmentController.java
+/Users/sgpalash/Downloads/demo 2/src/main/java/com/example/demo/controller/DoctorController.java
+/Users/sgpalash/Downloads/demo 2/src/main/java/com/example/demo/controller/PatientController.java
+/Users/sgpalash/Downloads/demo 2/src/main/java/com/example/demo/dto/AppointmentDTO.java
+/Users/sgpalash/Downloads/demo 2/src/main/java/com/example/demo/dto/DoctorDTO.java
+/Users/sgpalash/Downloads/demo 2/src/main/java/com/example/demo/dto/PatientDTO.java
+/Users/sgpalash/Downloads/demo 2/src/main/java/com/example/demo/entity/Appointment.java
+/Users/sgpalash/Downloads/demo 2/src/main/java/com/example/demo/entity/Doctor.java
+/Users/sgpalash/Downloads/demo 2/src/main/java/com/example/demo/entity/Patient.java
+/Users/sgpalash/Downloads/demo 2/src/main/java/com/example/demo/repository/AppointmentRepository.java
+/Users/sgpalash/Downloads/demo 2/src/main/java/com/example/demo/repository/DoctorRepository.java
+/Users/sgpalash/Downloads/demo 2/src/main/java/com/example/demo/repository/PatientRepository.java
+/Users/sgpalash/Downloads/demo 2/src/main/java/com/example/demo/service/PatientService.java
+/Users/sgpalash/Downloads/demo 2/src/main/java/com/example/demo/service/PatientServiceImpl.java
