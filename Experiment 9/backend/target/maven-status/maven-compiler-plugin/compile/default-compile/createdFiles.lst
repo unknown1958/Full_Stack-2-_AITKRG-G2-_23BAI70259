@@ -1,0 +1,7 @@
+com\example\secureapp\service\UserService.class
+com\example\secureapp\controller\UserController.class
+com\example\secureapp\security\SecurityConfig.class
+com\example\secureapp\model\Role.class
+com\example\secureapp\model\User.class
+com\example\secureapp\SecureappApplication.class
+com\example\secureapp\repository\UserRepository.class
